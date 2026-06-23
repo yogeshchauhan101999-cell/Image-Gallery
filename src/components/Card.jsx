@@ -7,6 +7,7 @@ const Card = ({ data }) => {
           alt=""
           className="w-full h-full rounded-t-[15px] aspect-auto"
         />
+        <h1>yogesh singh chauhan</h1>
       </div>
 
       <h2 className="text-lg text-gray-600 font-semibold">
